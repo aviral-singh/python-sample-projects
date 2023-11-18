@@ -1,4 +1,4 @@
-# 100+ Python Projects Challenge
+# 100+ Python Projects Challenge to make projects
 
 ## 001 1 minute math
 
